@@ -1,0 +1,122 @@
+[
+    {
+      "id": "react",
+      "name": "React",
+      "category": "Frontend",
+      "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+      "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
+      "rating": 4.9,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Popular"
+    },
+    {
+      "id": "vue",
+      "name": "Vue.js",
+      "category": "Frontend",
+      "description": "An approachable and versatile framework for building fast web interfaces.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
+      "rating": 4.8,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Versatile"
+    },
+    {
+      "id": "svelte",
+      "name": "Svelte",
+      "category": "Frontend",
+      "description": "A compiler-based framework for creating fast and lightweight web applications.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Svelte.svg",
+      "rating": 4.8,
+      "difficulty": "Intermediate",
+      "badge": "Fast"
+    },
+    {
+      "id": "nextjs",
+      "name": "Next.js",
+      "category": "Frontend",
+      "description": "A React framework for building full-stack web applications with modern features.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Next.js.svg",
+      "rating": 4.9,
+      "difficulty": "Intermediate",
+      "badge": "Popular"
+    },
+    {
+      "id": "nodejs",
+      "name": "Node.js",
+      "category": "Backend",
+      "description": "An asynchronous JavaScript runtime used to build scalable server-side applications.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Node.js.svg",
+      "rating": 4.8,
+      "difficulty": "Intermediate",
+      "badge": "Standard"
+    },
+    {
+      "id": "postgresql",
+      "name": "PostgreSQL",
+      "category": "Database",
+      "description": "A powerful open-source relational database system known for reliability and flexibility.",
+      "icon": "https://icon.icepanel.io/Technology/svg/PostgresSQL.svg",
+      "rating": 4.9,
+      "difficulty": "Intermediate",
+      "badge": "Top SQL"
+    },
+    {
+      "id": "redis",
+      "name": "Redis",
+      "category": "Database",
+      "description": "An in-memory data store commonly used for caching and fast data access.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Redis.svg",
+      "rating": 4.8,
+      "difficulty": "Intermediate",
+      "badge": "Cache"
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "category": "Language",
+      "description": "A versatile programming language used to create dynamic and interactive web experiences.",
+      "icon": "https://icon.icepanel.io/Technology/svg/JavaScript.svg",
+      "rating": 4.9,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Ubiquitous"
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "category": "Language",
+      "description": "A strongly typed language that adds safer and more reliable development to JavaScript.",
+      "icon": "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
+      "rating": 4.9,
+      "difficulty": "Intermediate",
+      "badge": "Essential"
+    },
+    {
+      "id": "tailwind",
+      "name": "Tailwind CSS",
+      "category": "Styling",
+      "description": "A utility-first CSS framework for creating responsive and custom user interfaces.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg",
+      "rating": 4.9,
+      "difficulty": "Beginner-Friendly",
+      "badge": "Modern"
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "category": "DevOps",
+      "description": "A platform for building, shipping, and running applications in lightweight containers.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Docker.svg",
+      "rating": 4.9,
+      "difficulty": "Intermediate",
+      "badge": "Containers"
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "category": "Language",
+      "description": "A mature object-oriented programming language used for scalable applications.",
+      "icon": "https://icon.icepanel.io/Technology/svg/Java.svg",
+      "rating": 4.6,
+      "difficulty": "Intermediate",
+      "badge": "Robust"
+    }
+  ]
