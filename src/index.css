@@ -610,3 +610,9 @@ button {
     align-items: flex-start;
   }
 }
+.hero-image img {
+  width: 100%;
+  max-width: 520px;
+  display: block;
+  border-radius: 20px;
+}

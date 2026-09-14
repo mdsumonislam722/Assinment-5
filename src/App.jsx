@@ -104,16 +104,8 @@ const App = () => {
           </div>
 
           <div className="hero-image">
-            <div className="image-box">
-              <div className="image-top">AI</div>
-              <div className="image-middle">
-                <span>⚛</span>
-                <span>JS</span>
-                <span>TS</span>
-              </div>
-              <div className="image-bottom">DEV STACK</div>
-            </div>
-          </div>
+  <img src="/src/assets/hero.png" alt="Dev Stack" />
+</div>
         </section>
 
         {/* Technologies */}
