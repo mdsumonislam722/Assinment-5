@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import heroImage from "./assets/hero.png";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -104,7 +105,7 @@ const App = () => {
           </div>
 
           <div className="hero-image">
-  <img src="/src/assets/hero.png" alt="Dev Stack" />
+          <img src={heroImage} alt="Dev Stack" />
 </div>
         </section>
 
