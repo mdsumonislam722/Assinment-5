@@ -622,3 +622,16 @@ button {
   display: block;
   border-radius: 20px;
 }
+@media (max-width: 768px) {
+  .technology-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .content-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .stack-section {
+    order: -1;
+  }
+}
