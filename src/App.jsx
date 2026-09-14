@@ -180,9 +180,8 @@ const App = () => {
               <h2>Your Stack</h2>
 
               <p className="selected-text">
-                {stack.length} Technology{stack.length !== 1 ? "s" : ""}{" "}
-                Selected
-              </p>
+  {stack.length} {stack.length === 1 ? "Technology" : "Technologies"} Selected
+</p>
 
               {stack.length === 0 ? (
                 <div className="empty-stack">
