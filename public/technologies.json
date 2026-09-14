@@ -110,13 +110,33 @@
       "badge": "Containers"
     },
     {
-      "id": "java",
-      "name": "Java",
-      "category": "Language",
-      "description": "A mature object-oriented programming language used for scalable applications.",
-      "icon": "https://icon.icepanel.io/Technology/svg/Java.svg",
-      "rating": 4.6,
-      "difficulty": "Intermediate",
-      "badge": "Robust"
-    }
-  ]
+        "id": "java",
+        "name": "Java",
+        "category": "Language",
+        "description": "A mature object-oriented programming language used for scalable applications.",
+        "icon": "https://icon.icepanel.io/Technology/svg/Java.svg",
+        "rating": 4.6,
+        "difficulty": "Intermediate",
+        "badge": "Robust"
+      },
+      {
+        "id": "mongodb",
+        "name": "MongoDB",
+        "category": "Database",
+        "description": "A flexible NoSQL database used for storing and working with document-based data.",
+        "icon": "https://icon.icepanel.io/Technology/svg/MongoDB.svg",
+        "rating": 4.7,
+        "difficulty": "Beginner-Friendly",
+        "badge": "NoSQL"
+      },
+      {
+        "id": "git",
+        "name": "Git",
+        "category": "Tools",
+        "description": "A version control system used to track code changes and manage development projects.",
+        "icon": "https://icon.icepanel.io/Technology/svg/Git.svg",
+        "rating": 4.9,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Essential"
+      }
+      ]
