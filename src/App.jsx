@@ -122,7 +122,7 @@ const App = () => {
               {loading ? (
                 <div className="loading">
                   <div className="spinner"></div>
-                  <p>Loading technologies...</p>
+                  <p>Please wait, technologies are loading...</p>
                 </div>
               ) : (
                 technologies.map((technology) => {
